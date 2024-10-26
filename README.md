@@ -18,7 +18,7 @@ For more information on C# and server-side development, visit [Microsoft C# Docu
 
 ## Images
 
-![C# Back-End Development](./csharp_backend_development.jpg)
+![C# Back-End Development](./c-uses-966x569.png)
 
 ***Important Notice:*** This repository contains assignments and projects related to back-end web development. Mastering C# and data integration is crucial for building efficient web applications.
 
